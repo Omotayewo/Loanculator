@@ -1,0 +1,18 @@
+.calc{
+	background: black;
+	color: white;
+	float: right;
+	margin: 40px -8px 0px 0px;
+	width: 320px;
+	padding: 0px;
+	text-align: center;
+	font-family: Calibri;
+}
+@media screen and (min-width: 480px) {
+	.calc{
+		margin-right: 300px;
+		margin-top: 200px;
+		height: 300px;
+		width: 400px;
+	}
+}
